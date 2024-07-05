@@ -1,18 +1,19 @@
 # Bitcoin Price Prediction
 
-# GOAL
+## GOAL
 
-# Aim- To predict the price of the Bitcoin using Linear Regression, Lasso Regression & Decision Tree Regressor. Perform EDA
+## Aim 
+To predict the price of the Bitcoin using Linear Regression, Lasso Regression & Decision Tree Regressor. Perform EDA
 
-# DATASET
+## DATASET
 
 https://www.kaggle.com/vikramjeetsinghs/bitcoin-dataset
 
-# DESCRIPTION
+## DESCRIPTION
 
 This is a regression problem where we need to predict the price of Bitcoin. We use Linear, Lasso Regression and Decision tree Regressor
 
-# WHAT I HAD DONE
+## WHAT I HAD DONE
 
 1. perfromed exploratory data analysis (EDA) on the given dataset
 2. it starts with loading the dataset and viewing the top 5 rows
@@ -22,14 +23,14 @@ This is a regression problem where we need to predict the price of Bitcoin. We u
 6. finally 3 different algorithms are used to find the best algorithm 
 7. also accuracy score of each algorithm is calculated for comparison purpose with other algorithms
 
-# MODELS USED
+## MODELS USED
 
 1. Linear Regression= simplest and most common algorithm used for classification problems
 2. Ridge Regression
 3. Support Vector Regressor
 
 
-# LIBRARIES NEEDED
+## LIBRARIES NEEDED
 
 1. Numpy
 2. Pandas
@@ -37,16 +38,16 @@ This is a regression problem where we need to predict the price of Bitcoin. We u
 4. Seaborn
 5. Scikit-Learn
 
-# ACCURACIES
+## ACCURACIES
 
 1. Linear Regression Score = 0.9999539378804362
 2. Ridge Regression Score = 0.9965513756246261
 3. Support Vector Regressor Score = 0.13660060536688778
 
-# CONCLUSION
+## CONCLUSION
 
 We can conclude that Linear Regression gives the most accurate results specifically for this problem statement.
 
-# Author
+## Author
 
 - [@Priyankesh](https://github.com/priyankeshh)
