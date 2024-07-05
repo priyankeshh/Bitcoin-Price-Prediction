@@ -1,5 +1,3 @@
-# PROJECT TITLE
-
 # Bitcoin Price Prediction
 
 # GOAL
